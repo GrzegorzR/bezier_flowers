@@ -1,6 +1,7 @@
-# Bézier curves animation + instruct pix2pix stable diffusion
 
-The objective was to generate clean flower animations by utilizing basic geometric animations as input for [the instruct pix2pix stable diffusion model](https://github.com/timothybrooks/instruct-pix2pix). The goal was specifcly to obtain clean flower animation, after sevral experiments best found promt and model parameteras are:
+#Bézier Curves Animation + Instruct Pix2Pix Stable Diffusion
+
+The objective of this project was to generate clean flower animations by utilizing basic geometric animations as input for [the instruct pix2pix stable diffusion model](https://github.com/timothybrooks/instruct-pix2pix). The goal was specifically to obtain clean flower animation, and after several experiments, the best prompt and model parameters were found to be:
 
 ```
 CONFIG_DICT = {
